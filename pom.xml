@@ -81,5 +81,10 @@
     	<artifactId>ranger-tools</artifactId>
     	<version>0.6.0</version>
     </dependency>
+    <dependency>
+    	<groupId>org.apache.flex.blazeds</groupId>
+    	<artifactId>flex-messaging-core</artifactId>
+    	<version>4.7.2</version>
+    </dependency>
   </dependencies>
 </project>
